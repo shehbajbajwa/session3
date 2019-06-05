@@ -11,5 +11,6 @@ print(ages3, hex(id(ages3)), type(ages3))
 #list is MUTABLE
 #set is MUTABLE  and UnOrdered due to uniqueness
 
+#how to read in set...
 for x in ages3:
     print(x,hex(id(x)))
